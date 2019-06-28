@@ -28,7 +28,7 @@ Although this bot is working (version 1.0.0) it's not complete. There are far mo
 ### Author Notes
 - This bot is mainly created for Discord Hack Week competition.
 - I'm relatively new to developing discord bots, so some things may seem weird.
-- Permissions
+- Permissions command may look broken due to quick fix for message symbols limit.
 
 License
 ----
