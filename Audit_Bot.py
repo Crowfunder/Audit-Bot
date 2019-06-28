@@ -1,5 +1,5 @@
 import discord
-
+#CF
 def readtoken():
     with open("Token.txt", "r") as i:
         lines = i.readlines()
