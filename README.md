@@ -1,4 +1,6 @@
 # Audit Bot v1.0.0
+<img src="https://github.com/Crowfunder/Audit-Bot/blob/master/Audit%20Logo.png" alt="drawing" width="300" heigh="300"/>
+
 
 Audit Bot is a simple open source discord bot which will scan your basic server's settings and potential vulnerablilities. It'll scan through roles and server settings, it may even safe you from raid or spambot attack. It automates searching and points out what should be changed. 
 This includes:
