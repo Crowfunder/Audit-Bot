@@ -23,7 +23,7 @@ https://discordapp.com/oauth2/authorize?client_id=592664964393598987&scope=bot&p
 ### Usage
 Mention the bot to view help.
 
-### Development
+# Development
 
 Although this bot is working (version 1.0.0) it's not complete. There are far more things i'd like to make (for example customizable prefix) or others. Even when hack week will end i'll try to continue developing it further. 
 
