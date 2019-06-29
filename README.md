@@ -2,7 +2,7 @@
 <img src="https://github.com/Crowfunder/Audit-Bot/blob/master/Audit%20Logo2.png" alt="Audit Bot Logo" width="300" heigh="300"/>
 
 
-Audit Bot is a simple open source discord bot which will scan your basic server's settings and potential vulnerablilities. It'll scan through roles and server settings, it may even safe you from raid or spambot attack. It automates searching and points out what should be changed. 
+Audit Bot is a simple open source discord bot which will scan your basic server's settings and potential vulnerablilities. It'll scan through roles and server settings, it may even save you from raid or spambot attack. It automates searching and points out what should be changed. For example, if you own a big server with alot of roles, it's problematic to check every role permissions manually, this bot'll check everything for you!
 This includes:
   - What roles are mentionable.
   - What roles have dangerous permissions.
