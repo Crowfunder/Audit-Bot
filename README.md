@@ -25,12 +25,11 @@ Mention the bot to view help.
 
 # Development
 
-Although this bot is working (version 1.0.0) it's not complete. There are far more things i'd like to make (for example customizable prefix) or others. Even when hack week will end i'll try to continue developing it further. 
+Although this bot is working (version 1.0.0) it's not complete. There are far more things i'd like to make (for example customizable prefix) or others.
 
 ### Author Notes
-- This bot is mainly created for Discord Hack Week competition.
 - I'm relatively new to developing discord bots, so some things may seem weird.
-- Permissions command may look broken due to quick fix for message symbols limit.
+- Permissions command may look broken due to quick fix for message characters limit.
 
 License
 ----
