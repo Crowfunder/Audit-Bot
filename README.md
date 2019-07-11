@@ -18,7 +18,7 @@ This includes:
 
 To get it working you just have to invite bot to your server by clicking the following link and authorizing it in selected server.
 ```sh
-https://discordapp.com/oauth2/authorize?client_id=592664964393598987&scope=bot&permissions=8
+https://discordapp.com/oauth2/authorize?client_id=592664964393598987&scope=bot&permissions=268561584
 ```
 ### Usage
 Mention the bot to view help.
