@@ -13,8 +13,7 @@ This includes:
 # Features
 
   - Scanning single attack vectors or performing a full scan. All of those returning a nice and clear report.
-  - Customizable Prefix (temporarily disabled)
-  - Availability for Administrators only for secure usage to prevent eventual vulnerabilites disclosure.
+  - Availability for Administrators only to prevent eventual vulnerabilites disclosure.
 
 ### Installation
 
