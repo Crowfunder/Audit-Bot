@@ -19,7 +19,7 @@ This includes:
 ### Installation
 
 ~~To get it working you just have to invite the bot to your server by clicking the following [link](
-https://discordapp.com/oauth2/authorize?client_id=592664964393598987&scope=bot&permissions=268561584) and authorizing it in selected server.~~ Bot is down due to unknown reasons.
+https://discordapp.com/oauth2/authorize?client_id=592664964393598987&scope=bot&permissions=268561584) and authorizing it in selected server.~~ Bot is apparently down due to unknown reasons.
 
 To get it working you have to: 
 1) Install [python3](https://www.python.org/downloads/) as well as `discord.py` python package. 
